@@ -27,6 +27,7 @@ Albion Online Analysis of Chinese Characters
 | OK | Oathkeepers | 守誓雙錘 | 奶錘 |
 | RB | Realmbreaker | 裂獄斧 | AVA斧 |
 | BMS | Black Monk Staff | 黑僧棍 |  |
+| SOB | Staff Of Blance | 平衡棍 |  |
 
 ## 通用術語
 ### 通常在RPG遊戲中通用的詞彙
