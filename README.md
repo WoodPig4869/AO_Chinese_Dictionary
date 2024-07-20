@@ -139,7 +139,7 @@ Albion Online Analysis of Chinese Characters
     Fame所影響的等級，通常指戰鬥聲望的多寡，每個人標準不盡相同，有人認為內圈100足矣；有人外圈加總未達800皆稱自己沒練度。
 - **DT(Defense Tank)防守坦：**
     主流的團戰坦克配置項，主要目標為阻擋或擾亂對手的進攻節奏。
-- **BM（Bomb Squard）炸彈隊：**
+- **BS（Bomb Squard）炸彈隊：**
     主流團戰戰術單元，能夠獨立作戰小隊，通常以秒殺大隊伍為目標，常有特徵為AOE傷害武器及頂峰的IP。
 
 
